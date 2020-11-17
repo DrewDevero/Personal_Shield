@@ -23,5 +23,5 @@ function pointAnimation(point) {
     setTimeout(() => {setInterval(() => pointAnimation(POINT2), 10000)}, 4000);
     setTimeout(() => {setInterval(() => pointAnimation(POINT3), 10000)}, 6000);
     setTimeout(() => {setInterval(() => pointAnimation(POINT4), 10000)}, 8000);
-    setTimeout(() => {setInterval(() => pointAnimation(POINT1), 10000)}, 10000);
+    setTimeout(() => {setInterval(() => pointAnimation(POINT5), 10000)}, 10000);
 })();
