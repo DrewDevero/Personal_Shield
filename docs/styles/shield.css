@@ -82,3 +82,15 @@ main {
     top: 28%;
     left: -58%;
 }
+@media screen and (max-width: 50rem) {
+    header>div>h1 {
+        font-size: 1.5rem;
+    }
+    #shield {
+        height: 40vh;
+        width: 20vw;
+    }
+    .points {
+        font-size: 1rem;
+    }
+}

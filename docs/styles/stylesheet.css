@@ -200,3 +200,12 @@ main {
     top: 35%;
     left: 8%;
 }
+
+@media screen and (max-width: 50rem) {
+    body {
+        height: 80vh;
+    }
+    header>div>h1 {
+        font-size: 1.5rem
+    }
+}   
