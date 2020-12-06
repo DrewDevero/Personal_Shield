@@ -88,7 +88,7 @@ main {
     }
     #shield {
         height: 50vh;
-        width: 25vw;
+        width: 50%
     }
     .points {
         font-size: 1rem;
