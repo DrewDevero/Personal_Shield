@@ -3,6 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+.copyright-spacing {
+  display: flex;
+  justify-content: center;
+  background: rgba(38, 116, 206, 0.4);
+  height: 10vh;
+  width: 100%;
+  margin-top: 12rem;
+}
+.copyright {
+  font-weight: bold;
+  font-size: 16px;
+  padding: 1.5rem;
+}
 body {
     background: linear-gradient(90deg, rgba(0, 0, 0, 0.781), rgb(216, 216, 216), rgba(0, 0, 0, 0.781));
     height: 120vh;
